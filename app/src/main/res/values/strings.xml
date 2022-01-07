@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Assignment 2</string>
+    <string name="phone">Get Phone</string>
+    <string name="num">Enter Number</string>
+</resources>
